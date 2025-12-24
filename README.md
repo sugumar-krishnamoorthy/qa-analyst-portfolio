@@ -80,7 +80,7 @@ For a quick but complete understanding:
 ## Intended Roles
 
 This portfolio is designed for roles such as:
-- Product Analyst – Quality Assurance  
+- Lead Analyst – Quality Assurance  
 - Senior QA Analyst (Product-aligned)  
 - UAT / Release Readiness Lead  
 - Quality Engineering roles with strong product ownership  
