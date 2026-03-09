@@ -4,8 +4,6 @@ This repository showcases my approach to **Product Analysis and Quality Assuranc
 
 All examples are **generalized** and do **not** contain proprietary or confidential information.
 
-📄 **About Me** → [ABOUTME.md](./ABOUTME.md)
-
 ---
 
 ## 60-Second Overview (For Reviewers)
@@ -69,22 +67,10 @@ Through this case study, I demonstrate the ability to:
 ## How to Review (Suggested Order)
 
 For a quick but complete understanding:
-1. **About Me** – [ABOUTME.md](./ABOUTME.md)  
-2. Background & Problem Statement  
-3. Functional Requirements & Acceptance Criteria  
-4. UAT Test Plan & Traceability  
-5. Executive Release Readiness Summary  
-
----
-
-## Intended Roles
-
-This portfolio is designed for roles such as:
-- Lead Analyst – Quality Assurance  
-- Senior QA Analyst (Product-aligned)  
-- UAT / Release Readiness Lead  
-- Quality Engineering roles with strong product ownership  
-
+1. Background & Problem Statement  
+2. Functional Requirements & Acceptance Criteria  
+3. UAT Test Plan & Traceability  
+4. Executive Release Readiness Summary  
 ---
 
 ## Disclaimer
